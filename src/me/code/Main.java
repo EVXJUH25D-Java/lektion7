@@ -7,6 +7,7 @@ public class Main {
 
     // Hej från andra terminalen!
     // ABC
+    // HEJ
     // BANAN
 
     public static void main(String[] args) {
