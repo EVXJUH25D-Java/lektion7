@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 public class Main {
 
+    // firehi
     // Hej från andra terminalen!
     // ABC
     // HEJ
