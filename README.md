@@ -23,7 +23,8 @@ Kan du göra en video med hur man använder Git? Hade velat pausa under lektione
 
 # Svar
 
-Vi funderar på det, men så länge, använd [denna Git på svenska spellista](https://www.youtube.com/watch?v=0nfyNwYZzZ4&list=PLwh73nXB3whgormDmX_skiiJfHfOa9Jgd&index=1).
+Jag hade glömt att jag har en video sedan innan: [se på YouTube](https://youtu.be/5TIMfCIugDI?si=mFjtNxaXoN44SUB9)
+Kolla även på [denna Git på svenska spellista](https://www.youtube.com/watch?v=0nfyNwYZzZ4&list=PLwh73nXB3whgormDmX_skiiJfHfOa9Jgd&index=1).
 
 ---
 
