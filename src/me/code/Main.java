@@ -7,6 +7,7 @@ public class Main {
 
     // Hej från andra terminalen!
     // ABC
+    // BANAN
 
     public static void main(String[] args) {
         Shop[] shops = Shop.generateShops();
