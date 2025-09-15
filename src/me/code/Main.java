@@ -11,6 +11,7 @@ public class Main {
         Shop[] shops = Shop.generateShops();
 
         double balance = 50000.0;
+        // 123
 
         try {
             shops[0].buyProduct(null, balance, 1000);
