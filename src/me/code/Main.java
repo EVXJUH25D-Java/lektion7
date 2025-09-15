@@ -6,6 +6,7 @@ import java.util.Scanner;
 public class Main {
 
     // Hej från andra terminalen!
+    // ABC
 
     public static void main(String[] args) {
         Shop[] shops = Shop.generateShops();
